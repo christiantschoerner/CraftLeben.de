@@ -29,5 +29,5 @@ Lobby » Sebi_zocer<br>
 
 
 ## Subsysteme
-C.O.R.E TabComplete - Deaktivert das Tabben jeglicher Befehle außer der, auf die man Berechtigt ist. Spieler tabben ist weiterhin möglich
+C.O.R.E TabComplete - Deaktivert das Tabben jeglicher Befehle außer der, für die man Berechtigt ist. Spieler tabben ist weiterhin möglich
 
