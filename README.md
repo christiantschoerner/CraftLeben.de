@@ -24,7 +24,7 @@ Jedes System hat eine Person, die für dieses Verantwortlich ist. Eine Person so
 C.O.R.E » Chriis<br>
 S.H.I.E.L.D » LukasCode & (Chriis)<br>
 V.I.S.I.O.N » Chriis<br>
-Lobby » Sebi_zocer<br>
+Lobby » PluginAPI<br>
 ... (Secret)
 
 
