@@ -7,7 +7,7 @@ Dieses README zeigt die derzeitige Struktur des CraftLeben.de Networks
 [S.H.I.E.L.D](https://shield.craftleben.de) ━ Strategic Hazard Intervention Espionage Logistics Directorate ━ Webinterface für C.O.R.E<br>
 
 ## Frontend Systeme<br>
-V.I.S.I.O.N ━ Virtual Information Security Intelligence And Operations Network ━ AntiCheat, verbunden mit P.L.A.T.O
+V.I.S.I.O.N ━ Virtual Information Security Intelligence And Operations Network ━ AntiCheat, verbunden mit P.L.A.T.O<br>
 P.L.A.T.O ━ Professional Logistic Analytical Tactical Operator ━ Intelligentes Ban und Mute System, auch Verbunden mit V.I.S.I.O.N und S.H.I.E.L.D<br>
 T.A.R.S & C.A.S.E ━ Text Auto Response System & Cool Autoresponse Sender Engine ━ Automatische Chatbots, die automatisch auf Häufig gestellte Fragen von Usern antworten<br>
 
