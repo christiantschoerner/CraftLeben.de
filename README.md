@@ -21,13 +21,8 @@ Lobby ━ Erster Server, der von Spielern betreten wird<br>
 ## Verantwortliche Personen<br>
 Jedes System hat eine Person, die für dieses Verantwortlich ist. Eine Person sollte maximal 2 Systeme gleichzeitig verwalten. Diese Person ist die Einzige, die Bugs fixt oder Features hinzufügt. Sollte die Person das Team verlassen, wird das System auf eine neue Person übertragen.
 <br><br>
-C.O.R.E » Chriis<br>
-S.H.I.E.L.D » LukasCode & (Chriis)<br>
-V.I.S.I.O.N » Chriis<br>
-Lobby » PluginAPI<br>
-... (Secret)
-
 
 ## Subsysteme
 C.O.R.E TabComplete - Deaktivert das Tabben jeglicher Befehle außer der, für die man Berechtigt ist. Spieler tabben ist weiterhin möglich
+C.O.R.E Essentials - Überarbeitete Befehle, welche auf jedem Server zu finden sind.
 
