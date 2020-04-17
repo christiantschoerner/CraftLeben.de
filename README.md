@@ -23,6 +23,6 @@ Jedes System hat eine Person, die für dieses Verantwortlich ist. Eine Person so
 <br><br>
 
 ## Subsysteme
-C.O.R.E TabComplete - Deaktivert das Tabben jeglicher Befehle außer der, für die man Berechtigt ist. Spieler tabben ist weiterhin möglich
+C.O.R.E TabComplete - Deaktivert das Tabben jeglicher Befehle außer der, für die man Berechtigt ist. Spieler tabben ist weiterhin möglich<br>
 C.O.R.E Essentials - Überarbeitete Befehle, welche auf jedem Server zu finden sind.
 
