@@ -13,7 +13,9 @@ T.A.R.S & C.A.S.E ━ Text Auto Response System & Cool Autoresponse Sender Engin
 
 ## GameModes (basierend auf C.O.R.E)<br>
 Lobby ━ Erster Server, der von Spielern betreten wird<br>
-... (Secret :P)
+SkyPvP ━ PvP Kämpfe auf fliegenden Inseln <br>
+KnockbackFFA ━ PvP mit Rückstoßstöcken auf verschiedenen Karten<br>
+FreeBuild ━ Freies Bauen mit gesicherten Bereichen<br>
 
 <br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
