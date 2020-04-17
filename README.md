@@ -16,7 +16,7 @@ Lobby ━ Erster Server, der von Spielern betreten wird<br>
 SkyPvP ━ PvP Kämpfe auf fliegenden Inseln <br>
 KnockbackFFA ━ PvP mit Rückstoßstöcken auf verschiedenen Karten<br>
 FreeBuild ━ Freies Bauen mit gesicherten Bereichen
-<br>
+<br><br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 
 ## Verantwortliche Personen<br>
